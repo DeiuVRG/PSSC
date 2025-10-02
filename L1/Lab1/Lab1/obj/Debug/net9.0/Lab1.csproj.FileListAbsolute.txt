@@ -1,0 +1,14 @@
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/bin/Debug/net9.0/Lab1
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/bin/Debug/net9.0/Lab1.deps.json
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/bin/Debug/net9.0/Lab1.runtimeconfig.json
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/bin/Debug/net9.0/Lab1.dll
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/bin/Debug/net9.0/Lab1.pdb
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/obj/Debug/net9.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/obj/Debug/net9.0/Lab1.AssemblyInfoInputs.cache
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/obj/Debug/net9.0/Lab1.AssemblyInfo.cs
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/obj/Debug/net9.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/obj/Debug/net9.0/Lab1.dll
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/obj/Debug/net9.0/refint/Lab1.dll
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/obj/Debug/net9.0/Lab1.pdb
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/obj/Debug/net9.0/Lab1.genruntimeconfig.cache
+/Users/deiuvrg/Library/CloudStorage/OneDrive-UniversitateaPolitehnicaTimisoara/An4IS/PSSC/L1/Lab1/Lab1/obj/Debug/net9.0/ref/Lab1.dll
